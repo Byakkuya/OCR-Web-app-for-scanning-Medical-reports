@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+server/.venv/
+server/venv/
+server/.env
+server/__pycache__/
+server/*.pyc
+server/.pytest_cache/
+
+# Frontend build output
+Electrolytes-Analyzer/dist/
+Electrolytes-Analyzer/node_modules/
+Electrolytes-Analyzer/.vite/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
